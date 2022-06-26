@@ -18,6 +18,7 @@ export const TimeStamp = styled.p`
     }
 `
 
+
 export const Greeting = styled.p`
     font-size: 4rem;
     font-weight: 600;
